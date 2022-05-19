@@ -8,7 +8,7 @@ Action List
 
 | <!-- -->    | <!-- -->    |<!-- -->    |
 |-------------|-------------|-------------|
-|0| Normal |   |![c0_mini](https://user-images.githubusercontent.com/105473789/169273349-5cdc145b-bfbf-4ed6-9580-64648417b822.gif)| 
+|0| Normal |   ![c0_mini](https://user-images.githubusercontent.com/105473789/169273349-5cdc145b-bfbf-4ed6-9580-64648417b822.gif)| 
 |1| Getting on a car | ![c1_mini](https://user-images.githubusercontent.com/105473789/169273432-4eb7635d-4dd5-4996-b4a4-0651d82199ca.gif)| 
 |2|  Getting off a car | ![c2_mini](https://user-images.githubusercontent.com/105473789/169273475-1cc495b6-48eb-4479-98c4-f9fa7e55ce75.gif)| 
 |3| Moving inside a car  |![c3_mini](https://user-images.githubusercontent.com/105473789/169273504-f0f02c9e-67ba-4a17-b997-44780366b051.gif)| 
