@@ -17,7 +17,7 @@ Action List
 |6| Touching a seatbelt | ![c6_mini](https://user-images.githubusercontent.com/105473789/169273635-3fc12f9a-9aa2-49ec-94d5-95453b6c210e.gif)| 
 |7|  Sleeping/Relaxing | ![c7_mini](https://user-images.githubusercontent.com/105473789/169273664-dccd4630-334c-431b-b0a9-ededd30e3341.gif)| 
 |8|  Looking outside|![c8_mini](https://user-images.githubusercontent.com/105473789/169273709-bf7e5460-c975-40b6-ae36-0b7027faf2af.gif)| 
-|9|  Pointint at something| ![c9_mini](https://user-images.githubusercontent.com/105473789/169273741-8e52499d-b437-4d0a-a7c8-3c31e41e67b3.gif)| 
+|9|  Pointing at something| ![c9_mini](https://user-images.githubusercontent.com/105473789/169273741-8e52499d-b437-4d0a-a7c8-3c31e41e67b3.gif)| 
 |10|  Blocking glare| ![c10_mini](https://user-images.githubusercontent.com/105473789/169273783-6569352b-11ac-4d4d-a068-4a2167375ce6.gif)| 
 |11|  Feeling hot| ![c11_mini](https://user-images.githubusercontent.com/105473789/169273835-583c0f59-cc8f-4ab1-90ff-019e01807c7f.gif)| 
 |12|  Feeling cold| ![c12_mini](https://user-images.githubusercontent.com/105473789/169273874-ea214535-bf3a-4af9-a247-2d36943b6f01.gif)| 
