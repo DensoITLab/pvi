@@ -27,7 +27,7 @@ Action List
 |16|  Reading| ![c16_mini](https://user-images.githubusercontent.com/105473789/169274010-65b442dd-32ae-4e37-8b8c-02bae1b50b39.gif)| 
 |17|  Eating| ![c17_mini](https://user-images.githubusercontent.com/105473789/169274041-f16e94af-43ce-413e-a3c6-9fd2deb2ed70.gif)|
 |18|  Drinking| ![c18_mini](https://user-images.githubusercontent.com/105473789/169274078-6d5523a2-5303-4428-9fe8-3167d72e3f30.gif)|
-|19|  Watching TV|![c19_mini](https://user-images.githubusercontent.com/105473789/169274113-342c013a-987c-454e-9006-fadb9ddd40a9.gif|
+|19|  Watching TV|![c19_mini](https://user-images.githubusercontent.com/105473789/169274411-2d335f00-45f1-4bee-9af3-534129acab15.gif)|
 |20|  Taking clothes|![c20_mini](https://user-images.githubusercontent.com/105473789/169274251-b8bb88da-4bea-4701-bb08-6d57045b5e11.gif) |
 |21|  Putting on clothes|![c21_mini](https://user-images.githubusercontent.com/105473789/169274188-34fcf02a-dd05-418a-af03-5def9da1ae94.gif)|
 
