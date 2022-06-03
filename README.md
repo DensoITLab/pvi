@@ -1,10 +1,43 @@
-# Skeleton motion dataset of Vehicle Rear seat Passenger(SVRP)
+#	<h1> Skeleton motion dataset of Vehicle Rear seat Passenger(SVRP)	</h1>
 
 <!--- ![overview_of_service](https://user-images.githubusercontent.com/105473789/168214523-eb0b92ba-1a8f-4a21-88a6-90fa06015ea9.jpg) -->
 <!---<img src="https://user-images.githubusercontent.com/105473789/168214523-eb0b92ba-1a8f-4a21-88a6-90fa06015ea9.jpg" alt="drawing" width="400"/>-->
 ![overview_of_service](https://user-images.githubusercontent.com/105473789/168229160-174ef05a-0477-4c10-814c-3489aa1eac88.jpg)
 
-Action List
+<h3>OpenPose 2D data	</h3>
+Currently only OpenPose 2D version is available.
+There are 10 cross validation datasets (one is train: abt 200 x 22 classes and test: abt 20 x 22 classes), so if you just want to see what it is like, downloading just a single file is enough.
+python NPY File is compressed with 7z format.
+https://www.7-zip.org/
+
+Sample code to read OpenPose2D data is as follows.
+
+```python
+  import numpy as np
+  filename_npy='CrossValidationDataset_OpenPose2D/VehiclePassenger_CV_OpenPose2D_0.npz'
+  NPY_DATA = np.load(filename_npy)# dictionary
+  
+  x_train=NPY_DATA['x_train']# (4291, 3, 120, 25, 1)  
+  y_train=NPY_DATA['y_train']# (4291,)
+  
+  x_test=NPY_DATA['x_test']# (466, 3, 120, 25, 1)  
+  y_test=NPY_DATA['y_test']# (466,)
+```
+Only time series data of skeleton joint is avaiable. 
+
+x_train
+
+| batch <br/>(22 class times XXX)   |coordinate<br/>(x,y,certainty)   | time<br/>(30frame per sec times 4 seconds)   | OpenPose Skeleton joints | Number of person |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|  4291 | 3 | 120 | 25 | 1 (always a single person) |
+
+y_train
+
+| batch (22 class times XXX)   |
+|:-------------:|
+|  4291 (22 class id labels from 0 to 21) |
+
+<h3>Action List	</h3>
 
 | <!-- -->    | <!-- -->    |<!-- -->    |
 |-------------|-------------|-------------|
