@@ -38,6 +38,14 @@ y_train
 |:-------------:|
 |  4291 (22 class id labels from 0 to 21) |
 
+Please use this citation.
+@article{SVRP,
+author = "Jingo Adachi, Hiroshi Tsukahara, Nobuhiro Mizuno,Akira Yoshizawa",
+title = "Action Inference of Rear Seat Passenger for In-Vehicle Service",
+journal = "IEEE IV2022",
+year = "2022"
+}
+
 <h3>Action List	</h3>
 
 | <!-- -->    | <!-- -->    |<!-- -->    |
