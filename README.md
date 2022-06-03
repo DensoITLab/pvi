@@ -6,7 +6,7 @@
 
 <h3>OpenPose 2D data	</h3>
 Currently only OpenPose 2D version is available.
-There are 10 cross validation datasets, so if you just want to see what it is like, downloading just a single file is enough.
+There are 10 cross validation datasets, so if you just want to see what it is like, downloading just a single file is enough.</br>
 python NPY File is compressed with 7z format.
 https://www.7-zip.org/
 
@@ -23,7 +23,7 @@ Sample code to read OpenPose2D data is as follows.
   x_test=NPY_DATA['x_test']# (466, 3, 120, 25, 1)  
   y_test=NPY_DATA['y_test']# (466,)
 ```
-Train: abt 200 batch x 22 classes and Test: abt 20 batch x 22 classes
+Train: abt 200 batch x 22 classes and Test: abt 20 batch x 22 classes</br>
 Only time series data of skeleton joint is avaiable. 
 
 x_train
