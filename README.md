@@ -73,4 +73,4 @@ year = "2022"
 |20|  Taking clothes|![c20_mini](https://user-images.githubusercontent.com/105473789/169274251-b8bb88da-4bea-4701-bb08-6d57045b5e11.gif) |
 |21|  Putting on clothes|![c21_mini](https://user-images.githubusercontent.com/105473789/169274188-34fcf02a-dd05-418a-af03-5def9da1ae94.gif)|
 
-Data wascaptured and processed by https://www.ueyesdesign.co.jp/
+Data was captured and processed by https://www.ueyesdesign.co.jp/
