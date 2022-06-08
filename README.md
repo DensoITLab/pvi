@@ -3,7 +3,7 @@
 <!--- ![overview_of_service](https://user-images.githubusercontent.com/105473789/168214523-eb0b92ba-1a8f-4a21-88a6-90fa06015ea9.jpg) -->
 <!---<img src="https://user-images.githubusercontent.com/105473789/168214523-eb0b92ba-1a8f-4a21-88a6-90fa06015ea9.jpg" alt="drawing" width="400"/>-->
 <!---![overview_of_service](https://user-images.githubusercontent.com/105473789/168229160-174ef05a-0477-4c10-814c-3489aa1eac88.jpg)>-->
-![BackseatPassengerService](https://user-images.githubusercontent.com/105473789/172556721-253e9336-f251-49e1-bb13-ab0e320977f6.gif)
+![BackseatPassengerService](https://user-images.githubusercontent.com/105473789/172557886-97408d7d-cbcc-4312-97e9-ce13d5d2b03e.jpg)
 
 <h3>OpenPose 2D data	</h3>
 Currently only OpenPose 2D version is available.
